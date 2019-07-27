@@ -1,0 +1,3 @@
+<!--components/user.wxml-->
+<text class="nickname">{{nickname}}</text>
+<button class="button" open-type="getUserInfo" bindgetuserinfo="handleUserInfo">Oauth</button>

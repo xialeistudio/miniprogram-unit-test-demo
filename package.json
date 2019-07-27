@@ -1,0 +1,16 @@
+{
+  "name": "unit-test-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "miniprogram-simulate": "^1.0.7"
+  }
+}
